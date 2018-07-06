@@ -1,6 +1,6 @@
 {
-  "hompage": "http://meneze.github.io/quempagou",
-  "name": "quempagouporultimo",
+  "homepage": "gst",
+  "name": "quempagou",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
